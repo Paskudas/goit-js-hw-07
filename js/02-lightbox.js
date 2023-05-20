@@ -10,6 +10,7 @@ const galleryMarkup = galleryItems
            <img
              class="gallery__image"
              src="${preview}"
+             title="${description}"
              alt="${description}"
            />
          </a>
